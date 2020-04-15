@@ -43,7 +43,7 @@ class MainCard extends StatelessWidget {
                   height: 15,
                 ),
                 Text(
-                  'Abhishek Wagh', 
+                  'Walter White', 
                   style: TextStyle(fontSize: 30, fontWeight: FontWeight.w700),
                 ),
                 SizedBox(height: 10,),
@@ -55,7 +55,7 @@ class MainCard extends StatelessWidget {
                   height: 20,
                 ),
                 Text(
-                  'Mobile App Developer | UI/UX Designer', 
+                  'Mobile | Web | UI-UX ', 
                   textAlign: TextAlign.center, 
                   style: TextStyle(fontSize: 20),
                 ),
